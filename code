@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historical Places </title>
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="bootstrap.css">
+</head>
+<body style="background-color: rgb(171, 238, 238)"></style>
+  
+    <div class="text-center align-middle main-heading pt-4 mx-sm-3 mt-2">
+        <h1> Historical Places In World</h1>
+    </div>
+        
+      
+        <div>
+            <div class="col-lg col-sm mt-sm-4 mx-sm-2">
+            <img src="hp.webp" height="500px" width="1500px" class="image-decor"><br><br>
+            
+
+            <div class="container text-center pb-4">
+                <p>
+            <i>There are many Historical Places in the World. Some of the countries are listed below. To check the Historical Places of that country click on the links given below:-</i><br></p>
+            <div class="header">
+           <b>1) Historical Places In Eygpt are given here</b>
+        <a href="egypt.html" >Click Here</a> <br>
+       <b> 2)Historical Places In India are given here</b>
+        <a href="india.html" > Click Here</a>   <br>
+        <b>3)Historical Places In South Africa are given here</b>
+        <a href="southafrica.html" > Click Here </a>    <br>
+        <b>4)Historical Places In South Korea are given here</b>
+        <a href="southkorea.html" > Click Here </a>   <br>
+        <b>5)Historical Places In China are given here</b>
+        <a href="china.html" > Click Here</a>  <br>
+        <b>6)Historical Places In Japan are given here</b>
+        <a href="japan.html" > Click Here</a>   <br>
+       <b> 7)Historical Places In United States of America are given here</b>
+        <a href="uniteds.html" > Click Here</a> <br>
+            
+       <b> 8)Historical Places In New Zealand are given here</b>
+        <a href="newzealand.html" >Click Here</a>   <br>
+        <b>9)Historical Places In Australia given here</b>
+        <a href="australia.html" >Click Here</a> <br>
+        <b>10)Historical Places In Sri Lanka are given here</b>
+       <a href="srilanka.html" >Click Here</a>  <br><br>
+       
+
+       <footer align="left">
+        <small>&copy;Janvi Pagar</small>
+       </footer>
+        
+    </div>
+</body>
+</html>
